@@ -4,7 +4,7 @@
 **Overview**  
 Predictive maintenance is a proactive approach to managing and maintaining equipment in data centers, leveraging data analysis to predict and prevent equipment failures. This strategy is essential for ensuring operational efficiency, reducing downtime, and extending the lifespan of critical infrastructure.
 
-**Key Benefits/Issues solved**  
+**Key Benefits/Issues Addressed**  
 1. **Reduced Downtime**: By predicting failures before they occur, data centers can minimize unplanned outages, ensuring continuous operation and service availability.
   
 2. **Cost Efficiency**: Predictive maintenance reduces the need for costly emergency repairs and extensive downtime. It allows for better allocation of maintenance resources and budget optimization.
@@ -23,6 +23,13 @@ Predictive maintenance is a proactive approach to managing and maintaining equip
 - **Integration with Existing Systems**: Ensuring that predictive maintenance tools are seamlessly integrated with existing asset management and monitoring systems for streamlined operations.
 
 - **Skilled Workforce**: Training staff in data interpretation and predictive maintenance strategies is essential for effective implementation.
+
+**Dataset Information**
+Link to CSV files - https://github.com/Gunjan2029/ML_Capstone/tree/main/Data
+
+Link to Jupyter Notebook - https://github.com/Gunjan2029/ML_Capstone/blob/main/Capstone.ipynb
+
+**Model Results, Next Steps are addressed in Jupter Notebook**
 
 **Considerations for Executives**  
 - **Investment in Technology**: Transitioning to a predictive maintenance model requires investment in IoT devices, analytics platforms, and training. Executives should weigh these costs against potential savings.
